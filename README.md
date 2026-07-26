@@ -16,9 +16,10 @@ LLMHub через `curl`, Python и Node.js.
 
 ## Быстрый старт
 
-1. Получите актуальные `base URL`, API-ключ и ID модели в личном кабинете.
-2. Скопируйте `.env.example` в `.env` и заполните значения только локально.
-3. Выполните один из примеров ниже.
+1. [Создайте аккаунт](https://llmhub.vip/sign-up?utm_source=github&utm_medium=partner&utm_campaign=integration-kit), войдите в консоль и откройте [API Keys](https://llmhub.vip/keys).
+2. Создайте API-ключ и получите доступную модель через `GET /v1/models`.
+3. Скопируйте `.env.example` в `.env` и заполните значения только локально.
+4. Выполните один из примеров ниже.
 
 Для PowerShell:
 
