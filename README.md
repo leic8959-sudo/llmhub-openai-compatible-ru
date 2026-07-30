@@ -7,6 +7,8 @@ OpenAI-совместимой API-точке LLMHub через `curl`, Python, N
 OpenAI-клиент и заменить только адрес API, ключ и ID модели. Серверная часть,
 ключи и платёжная логика в этот репозиторий не входят.
 
+English version: [README.en.md](README.en.md)
+
 ## Первый запрос за 60 секунд
 
 [Создать аккаунт и получить $0.50 бесплатного API-кредита](https://llmhub.vip/sign-up?utm_source=github&utm_medium=partner&utm_campaign=integration-kit) · [актуальные цены](https://llmhub.vip/pricing) · [документация](https://llmhub.vip/docs)
