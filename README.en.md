@@ -6,6 +6,13 @@ PowerShell, Python, Node.js, or Codex.
 
 Russian version: [README.md](README.md)
 
+## Integration guides
+
+- [Codex CLI with an OpenAI-compatible API](docs/codex-openai-compatible-api.md)
+- [Cursor with an OpenAI-compatible API](docs/cursor-openai-compatible-api.md)
+- [OpenAI-compatible API in Python](docs/python-openai-compatible-api.md)
+- [Troubleshoot 400, 401, 404, 429, and 5xx errors](docs/openai-compatible-api-troubleshooting.md)
+
 ## First request in 60 seconds
 
 [Create an account and get $0.50 in free API credit](https://llmhub.vip/sign-up?utm_source=github&utm_medium=readme&utm_campaign=integration-kit-en) · [model catalog](https://llmhub.vip/models) · [pricing](https://llmhub.vip/pricing) · [documentation](https://llmhub.vip/docs)

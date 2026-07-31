@@ -9,6 +9,13 @@ OpenAI-клиент и заменить только адрес API, ключ и
 
 English version: [README.en.md](README.en.md)
 
+## Практические инструкции
+
+- [Подключение Codex CLI к OpenAI-compatible API](docs/codex-openai-compatible-api.md)
+- [Подключение Cursor к OpenAI-compatible API](docs/cursor-openai-compatible-api.md)
+- [OpenAI-compatible API в Python](docs/python-openai-compatible-api.md)
+- [Диагностика ошибок 400, 401, 404, 429 и 5xx](docs/openai-compatible-api-troubleshooting.md)
+
 ## Первый запрос за 60 секунд
 
 [Создать аккаунт и получить $0.50 бесплатного API-кредита](https://llmhub.vip/sign-up?utm_source=github&utm_medium=partner&utm_campaign=integration-kit) · [актуальные цены](https://llmhub.vip/pricing) · [документация](https://llmhub.vip/docs)
