@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-01T06:20:21.703Z",
+  "generated_at": "2026-08-01T07:16:50.926Z",
   "source": "https://llmhub.vip/api/pricing",
   "pricing_version": "a42d372ccf0b5dd13ecf71203521f9d2",
   "model_count": 45,
-  "vendor_count": 8,
+  "vendor_count": 9,
   "models": [
     {
       "model_name": "claude-haiku-4-5",
@@ -524,6 +524,27 @@
       "details_url": "https://llmhub.vip/pricing/gemini-3.5-flash?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar"
     },
     {
+      "model_name": "gpt-5.3-codex-spark",
+      "vendor": "iFlytek",
+      "protocols": [
+        "openai"
+      ],
+      "groups": [
+        "1.5X",
+        "1.9X",
+        "1X"
+      ],
+      "billing_unit": "tokens",
+      "price_group": "1X",
+      "request_usd": null,
+      "input_per_million_usd": 3.5,
+      "output_per_million_usd": 28,
+      "cached_input_per_million_usd": 0.35,
+      "success_rate_7d": null,
+      "average_latency_ms_7d": null,
+      "details_url": "https://llmhub.vip/pricing/gpt-5.3-codex-spark?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar"
+    },
+    {
       "model_name": "MiniMax-M2.5",
       "vendor": "MiniMax",
       "protocols": [
@@ -642,27 +663,6 @@
       "success_rate_7d": null,
       "average_latency_ms_7d": null,
       "details_url": "https://llmhub.vip/pricing/kimi-k2.7-code?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar"
-    },
-    {
-      "model_name": "gpt-5.3-codex-spark",
-      "vendor": "OpenAI",
-      "protocols": [
-        "openai"
-      ],
-      "groups": [
-        "1.5X",
-        "1.9X",
-        "1X"
-      ],
-      "billing_unit": "tokens",
-      "price_group": "1X",
-      "request_usd": null,
-      "input_per_million_usd": 3.5,
-      "output_per_million_usd": 28,
-      "cached_input_per_million_usd": 0.35,
-      "success_rate_7d": null,
-      "average_latency_ms_7d": null,
-      "details_url": "https://llmhub.vip/pricing/gpt-5.3-codex-spark?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar"
     },
     {
       "model_name": "gpt-5.4",

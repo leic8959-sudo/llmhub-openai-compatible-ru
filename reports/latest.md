@@ -1,6 +1,6 @@
 # Еженедельный радар моделей LLMHub — 2026-08-01
 
-Автоматический снимок публичного каталога: **45 моделей** от **8 провайдеров**.
+Автоматический снимок публичного каталога: **45 моделей** от **9 провайдеров**.
 
 [Открыть каталог и цены](https://llmhub.vip/pricing?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) · [Создать API key](https://llmhub.vip/sign-up?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) · [Документация](https://llmhub.vip/docs)
 
@@ -50,13 +50,13 @@
 | [`gemini-3.1-flash-lite-preview`](https://llmhub.vip/pricing/gemini-3.1-flash-lite-preview?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | Google | 1.9X | $0.95 | $5.7 | gemini, openai |
 | [`gemini-3.1-pro-preview`](https://llmhub.vip/pricing/gemini-3.1-pro-preview?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | Google | 1.9X | $7.6 | $45.6 | gemini, openai |
 | [`gemini-3.5-flash`](https://llmhub.vip/pricing/gemini-3.5-flash?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | Google | 1.9X | $5.7 | $34.2 | gemini, openai |
+| [`gpt-5.3-codex-spark`](https://llmhub.vip/pricing/gpt-5.3-codex-spark?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | iFlytek | 1X | $3.5 | $28 | openai |
 | [`MiniMax-M2.5`](https://llmhub.vip/pricing/MiniMax-M2.5?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | MiniMax | 1.5X | $0.9 | $3.6 | openai |
 | [`MiniMax-M2.7`](https://llmhub.vip/pricing/MiniMax-M2.7?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | MiniMax | 1.5X | $0.9 | $3.6 | openai |
 | [`MiniMax-M3`](https://llmhub.vip/pricing/MiniMax-M3?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | MiniMax | 1.5X | $1.8 | $7.2 | openai |
 | [`kimi-for-coding`](https://llmhub.vip/pricing/kimi-for-coding?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | Moonshot | 1.5X | $9 | $45 | openai |
 | [`kimi-k2.6`](https://llmhub.vip/pricing/kimi-k2.6?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | Moonshot | 1.5X | $2.85 | $12 | openai |
 | [`kimi-k2.7-code`](https://llmhub.vip/pricing/kimi-k2.7-code?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | Moonshot | 1.5X | $2.85 | $12 | openai |
-| [`gpt-5.3-codex-spark`](https://llmhub.vip/pricing/gpt-5.3-codex-spark?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | OpenAI | 1X | $3.5 | $28 | openai |
 | [`gpt-5.4`](https://llmhub.vip/pricing/gpt-5.4?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | OpenAI | 1X | $5 | $30 | openai |
 | [`gpt-5.5`](https://llmhub.vip/pricing/gpt-5.5?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | OpenAI | 1X | $10 | $60 | openai |
 | [`gpt-5.6-luna`](https://llmhub.vip/pricing/gpt-5.6-luna?utm_source=github&utm_medium=weekly_report&utm_campaign=model-radar) | OpenAI | 1X | $0.4 | $2.4 | openai |
@@ -76,4 +76,4 @@
 
 Источник цен: [публичный API каталога](https://llmhub.vip/api/pricing). Цены показаны для самой дешёвой доступной группы модели и не заменяют проверку перед запросом. Метрики за 7 дней являются направляющим сигналом: публичный endpoint не раскрывает размер выборки, а отсутствие сигнала означает отсутствие недавних измерений, а не недоступность модели.
 
-Версия прайс-листа: `a42d372ccf0b5dd13ecf71203521f9d2`. Сформировано: `2026-08-01T06:20:21.703Z`.
+Версия прайс-листа: `a42d372ccf0b5dd13ecf71203521f9d2`. Сформировано: `2026-08-01T07:16:50.926Z`.
