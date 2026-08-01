@@ -16,6 +16,14 @@ English version: [README.en.md](README.en.md)
 - [OpenAI-compatible API в Python](docs/python-openai-compatible-api.md)
 - [Диагностика ошибок 400, 401, 404, 429 и 5xx](docs/openai-compatible-api-troubleshooting.md)
 
+## Еженедельный радар моделей
+
+[Последний автоматический отчёт](reports/latest.md) собирается из публичного
+каталога LLMHub каждый понедельник. В нём перечислены доступные модели,
+минимальные цены по активным группам, поддерживаемые API-протоколы и осторожно
+помеченная статистика недавних запросов. Машиночитаемый снимок находится в
+[`data/model-radar.json`](data/model-radar.json).
+
 ## Первый запрос за 60 секунд
 
 [Создать аккаунт и получить $0.50 бесплатного API-кредита](https://llmhub.vip/sign-up?utm_source=github&utm_medium=partner&utm_campaign=integration-kit) · [актуальные цены](https://llmhub.vip/pricing) · [документация](https://llmhub.vip/docs)
@@ -135,7 +143,7 @@ tool calls, JSON-ответы, лимит контекста, поля `usage` �
 ## Ссылки
 
 - Документация: <https://llmhub.vip/docs>
-- Каталог моделей: <https://llmhub.vip/models>
+- Каталог моделей: <https://llmhub.vip/pricing>
 - Актуальные цены: <https://llmhub.vip/pricing>
 - Проект: <https://llmhub.vip/>
 
